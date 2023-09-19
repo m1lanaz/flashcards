@@ -1,0 +1,14 @@
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\flashcards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\flashcards.AssemblyInfoInputs.cache
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\flashcards.AssemblyInfo.cs
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\flashcards.csproj.CoreCompileInputs.cache
+C:\Users\Milana\Documents\Github\flashcards\flashcards\bin\Debug\net7.0\flashcards.exe
+C:\Users\Milana\Documents\Github\flashcards\flashcards\bin\Debug\net7.0\flashcards.deps.json
+C:\Users\Milana\Documents\Github\flashcards\flashcards\bin\Debug\net7.0\flashcards.runtimeconfig.json
+C:\Users\Milana\Documents\Github\flashcards\flashcards\bin\Debug\net7.0\flashcards.dll
+C:\Users\Milana\Documents\Github\flashcards\flashcards\bin\Debug\net7.0\flashcards.pdb
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\flashcards.dll
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\refint\flashcards.dll
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\flashcards.pdb
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\flashcards.genruntimeconfig.cache
+C:\Users\Milana\Documents\Github\flashcards\flashcards\obj\Debug\net7.0\ref\flashcards.dll
