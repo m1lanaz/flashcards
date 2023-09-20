@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3s7GX0kA41l8eBePC9CswxoIzVyPYsASRVoiukdvuAllQgCfHtxunP05xEPKuGA91LhfU0oJSJwIfnxnftR+KA==",
+  "dgSpecHash": "HOWNSHYrZ7V1hUYW9P7FYuxiJE/HjnBsdiM5XoLusuZNWVkOW0M6KJg5553dLnFG25FjQeY5vqKhHa6L0ixLZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Milana\\Documents\\Github\\flashcards\\flashcards\\flashcards.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Milana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Milana\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
